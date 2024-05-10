@@ -1,0 +1,21 @@
+# ninja log v5
+36	275	7370676265600620	CMakeFiles/in_class_C_String_allocate.dir/CString1.cpp.obj	ec54ab6899993c0
+16	431	7370676267150664	CMakeFiles/in_class_C_String_allocate.dir/main.cpp.obj	4e63fef5d057375f
+431	635	7370676269170309	in_class_C_String_allocate.exe	45a3bcd39ffbc83b
+18	70	7370682058537296	CMakeFiles/in_class_C_String_allocate.dir/CString1.cpp.obj	ec54ab6899993c0
+13	304	7370682060877291	CMakeFiles/in_class_C_String_allocate.dir/main.cpp.obj	4e63fef5d057375f
+304	373	7370682061537396	in_class_C_String_allocate.exe	45a3bcd39ffbc83b
+8	61	7370685467231573	CMakeFiles/in_class_C_String_allocate.dir/CString1.cpp.obj	ec54ab6899993c0
+4	297	7370685469591515	CMakeFiles/in_class_C_String_allocate.dir/main.cpp.obj	4e63fef5d057375f
+297	368	7370685470265695	in_class_C_String_allocate.exe	45a3bcd39ffbc83b
+4	285	7370687427991826	CMakeFiles/in_class_C_String_allocate.dir/main.cpp.obj	4e63fef5d057375f
+285	352	7370687428621873	in_class_C_String_allocate.exe	45a3bcd39ffbc83b
+8	60	7370691306286457	CMakeFiles/in_class_C_String_allocate.dir/CString1.cpp.obj	ec54ab6899993c0
+4	296	7370691308640961	CMakeFiles/in_class_C_String_allocate.dir/main.cpp.obj	4e63fef5d057375f
+296	375	7370691309403503	in_class_C_String_allocate.exe	45a3bcd39ffbc83b
+12	62	7370693405381633	CMakeFiles/in_class_C_String_allocate.dir/CString1.cpp.obj	ec54ab6899993c0
+8	296	7370693407721661	CMakeFiles/in_class_C_String_allocate.dir/main.cpp.obj	4e63fef5d057375f
+296	359	7370693408311666	in_class_C_String_allocate.exe	45a3bcd39ffbc83b
+12	63	7370694791970990	CMakeFiles/in_class_C_String_allocate.dir/CString1.cpp.obj	ec54ab6899993c0
+8	295	7370694794300982	CMakeFiles/in_class_C_String_allocate.dir/main.cpp.obj	4e63fef5d057375f
+295	368	7370694794977123	in_class_C_String_allocate.exe	45a3bcd39ffbc83b

@@ -1,0 +1,3 @@
+C:/Users/joeyl/CLionProjects/in-class-C-String-allocate/cmake-build-debug/CMakeFiles/in_class_C_String_allocate.dir
+C:/Users/joeyl/CLionProjects/in-class-C-String-allocate/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/joeyl/CLionProjects/in-class-C-String-allocate/cmake-build-debug/CMakeFiles/rebuild_cache.dir
